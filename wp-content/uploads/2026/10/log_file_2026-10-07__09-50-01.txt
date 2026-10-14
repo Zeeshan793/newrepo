@@ -1,0 +1,68 @@
+
+---Downloaded files---
+The import files for: Import Demo Data were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://zeeshandeveloper.com
+Data file = C:\Users\user\Local Sites\zeeshan-developer\app\public/wp-content/uploads/2026/10/demo-content-import-file_2026-10-07__09-50-01.xml
+Widget file = C:\Users\user\Local Sites\zeeshan-developer\app\public/wp-content/uploads/2026/10/demo-widgets-import-file_2026-10-07__09-50-01.json
+Customizer file = C:\Users\user\Local Sites\zeeshan-developer\app\public/wp-content/uploads/2026/10/demo-customizer-import-file_2026-10-07__09-50-01.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Vector" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo-3" (Media)
+[ERROR] Failed to import "logo-4" (Media)
+[ERROR] Failed to import "edu-2" (Media)
+[ERROR] Failed to import "edu-2_dark" (Media)
+[ERROR] Failed to import "item-line" (Media)
+[ERROR] Failed to import "vector-user" (Media)
+[ERROR] Failed to import "vector-user_dark" (Media)
+[ERROR] Failed to import "tech-1" (Media)
+[ERROR] Failed to import "tech-2_dark" (Media)
+[ERROR] Failed to import "tech-3" (Media)
+[ERROR] Failed to import "tech-2_dark" (Media)
+[ERROR] Failed to import "brand-1" (Media)
+[ERROR] Failed to import "brand-1_dark" (Media)
+[ERROR] Failed to import "brand-2" (Media)
+[ERROR] Failed to import "brand-2_dark" (Media)
+[ERROR] Failed to import "brand-3" (Media)
+[ERROR] Failed to import "brand-3_dark" (Media)
+[ERROR] Failed to import "brand-4" (Media)
+[ERROR] Failed to import "brand-4_dark" (Media)
+[ERROR] Failed to import "icon1" (Media)
+[ERROR] Failed to import "edu-3" (Media)
+[ERROR] Failed to import "Vector 1 (1)" (Media)
+[ERROR] Failed to import "cur" (Media)
+[ERROR] Failed to import "tech-2" (Media)
+[ERROR] Failed to import "edu-3_dark" (Media)
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
